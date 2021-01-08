@@ -1,0 +1,7 @@
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\oscar\Desktop\COFACI\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
